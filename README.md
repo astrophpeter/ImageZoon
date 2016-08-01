@@ -14,11 +14,11 @@ Built on the Zooniverse Hack Day. Program that builds a project on the Zooninver
    Uploading images to Zooniverse...
    Complete.
 ```
-Will result in a project being created in the project builder section of your zooniverse account. It will have images of cats uploaded to an image set, and a wikipia summary of cats in the description of the project.
+Will result in a project being created in the project builder section of your zooniverse account. It will have images of cats uploaded to an image set, and a wikipedia summary of cats in the description of the project.
 
 ## Installation
 
-You will need the [zooniverse panoptes-python-client](https://github.com/zooniverse/panoptes-python-client), and [wikipia api for python](https://github.com/goldsmith/Wikipedia).
+You will need the [zooniverse panoptes-python-client](https://github.com/zooniverse/panoptes-python-client), and [wikipedia api for python](https://github.com/goldsmith/Wikipedia).
 
 ```
    $ pip install panoptes-client
